@@ -2,11 +2,6 @@
   <li>:open_file_folder: Semester 1
     <ul>
       <li>
-        <a href="https://github.com/teodoradra/Algebra"> 
-          :clubs:  Algebra 
-        </a>
-      </li>
-      <li>
         <a href="https://github.com/teodoradra/Computational-Logic"> 
           :trollface:  Computational Logic 
         </a>
@@ -51,7 +46,7 @@
       </li>
       <li>
         <a href="https://github.com/teodoradra/Databases"> 
-          :nut_and_bolt:  Databases 
+          :postbox:  Databases 
         </a>
       </li>
       <li>
