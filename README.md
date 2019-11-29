@@ -13,7 +13,12 @@
       </li>
       <li>
         <a href="https://github.com/teodoradra/Fundamental-of-Programming"> 
-          :snake:  Fundamental of Programming 
+          :cop:  Fundamental of Programming 
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Computer-Systems-Architecture"> 
+          :pager:  Computer Systems Architecture
         </a>
       </li>
     </ul>
@@ -22,12 +27,12 @@
     <ul>
       <li>
         <a href="https://github.com/teodoradra/Data-Structures-and-Algorithms"> 
-          :scissors:  Data Structures and Algorithms 
+          :sparkles:  Data Structures and Algorithms 
         </a>
       </li>
       <li>
         <a href="https://github.com/teodoradra/Object-Oriented-Programming"> 
-          :poop:  Object Oriented Programming 
+          :crown:  Object Oriented Programming 
         </a>
       </li>
     </ul>
@@ -41,7 +46,7 @@
       </li>
       <li>
         <a href="https://github.com/teodoradra/Computer-Networks"> 
-          :outbox_tray:  Computer Networks 
+          :hear_no_evil:  Computer Networks 
         </a>
       </li>
       <li>
