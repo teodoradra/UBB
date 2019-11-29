@@ -3,7 +3,7 @@
     <ul>
       <li>
         <a href="https://github.com/teodoradra/Computational-Logic"> 
-          :trollface:  Computational Logic 
+          :cherries:  Computational Logic 
         </a>
       </li>
       <li>
