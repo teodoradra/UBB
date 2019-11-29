@@ -36,7 +36,7 @@
     <ul>
       <li>
         <a href="https://github.com/teodoradra/MAP"> 
-          :toy:  Advanced Methods of Programming 
+          :boom:  Advanced Methods of Programming 
         </a>
       </li>
       <li>
