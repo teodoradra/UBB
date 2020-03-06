@@ -62,6 +62,36 @@
     </ul>
   </li>
   
+  <li>:open_file_folder: Semester 4
+    <ul>
+      <li>
+        <a href="https://github.com/teodoradra/MAP"> 
+          :boom:  Software engineering
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Computer-Networks"> 
+          :hear_no_evil:  Artificial Intelligence
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Databases"> 
+          :postbox:  Database Management Systems 
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Functional-and-Logic-Programming"> 
+          :floppy_disk:  Systems for Design and Implementation
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Probability-and-Statistics"> 
+          :chart_with_upwards_trend:  Web Programming
+        </a>
+      </li>
+    </ul>
+  </li>
+  
 </ul>
 
 <br>
