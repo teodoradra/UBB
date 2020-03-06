@@ -70,7 +70,7 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/teodoradra/Computer-Networks"> 
+        <a href="https://github.com/teodoradra/Artificial-Intelligence"> 
           :hear_no_evil:  Artificial Intelligence
         </a>
       </li>
