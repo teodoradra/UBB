@@ -80,7 +80,7 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/teodoradra/Functional-and-Logic-Programming"> 
+        <a href="https://github.com/teodoradra/Systems-for-Design-and-Implementation"> 
           :floppy_disk:  Systems for Design and Implementation
         </a>
       </li>
