@@ -65,7 +65,7 @@
   <li>:open_file_folder: Semester 4
     <ul>
       <li>
-        <a href="https://github.com/teodoradra/MAP"> 
+        <a href="https://github.com/teodoradra/ISS"> 
           :boom:  Software engineering
         </a>
       </li>
