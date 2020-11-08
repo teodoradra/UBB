@@ -61,67 +61,6 @@
       </li>
     </ul>
   </li>
-  
-  <li>:open_file_folder: Semester 4
-    <ul>
-      <li>
-        <a href="https://github.com/teodoradra/ISS"> 
-          :boom:  Software engineering
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/teodoradra/Artificial-Intelligence"> 
-          :hear_no_evil:  Artificial Intelligence
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/teodoradra/SGBD"> 
-          :postbox:  Database Management Systems 
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/teodoradra/Systems-for-Design-and-Implementation"> 
-          :floppy_disk:  Systems for Design and Implementation
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/teodoradra/Probability-and-Statistics"> 
-          :chart_with_upwards_trend:  Web Programming
-        </a>
-      </li>
-    </ul>
-  </li>
-  
-      <li>:open_file_folder: Semester 5
-    <ul>
-      <li>
-        <a href="https://github.com/teodoradra/Formal-languages-and-compiler-design"> 
-          :boom:  Formal-languages-and-compiler-design
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/teodoradra/Parallel-and-distributed-programming"> 
-          :hear_no_evil:  Parallel-and-distributed-programming
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/teodoradra/Mobile-application"> 
-          :postbox:  Mobile-application
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/teodoradra/Robotic-Process-Automation"> 
-          :floppy_disk:  Robotic-Process-Automation
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/teodoradra/Cloud-Application-Architecture"> 
-          :chart_with_upwards_trend:  Cloud-Application-Architecture
-        </a>
-      </li>
-    </ul>
-  </li>
-  
 </ul>
 
 <br>
