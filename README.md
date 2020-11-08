@@ -91,6 +91,37 @@
     </ul>
   </li>
   
+  <li>:open_file_folder: Semester 5
+    <ul>
+      <li>
+        <a href="https://github.com/teodoradra/Formal-languages-and-compiler-design"> 
+          :boom:  Formal-languages-and-compiler-design
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Parallel-and-distributed-programming"> 
+          :hear_no_evil:  Parallel-and-distributed-programming
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Mobile-application"> 
+          :postbox:  Mobile-application
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Robotic-Process-Automation"> 
+          :floppy_disk:  Robotic-Process-Automation
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/teodoradra/Cloud-Application-Architectures"> 
+          :chart_with_upwards_trend:  Cloud-Application-Architecture
+        </a>
+      </li>
+    </ul>
+  </li>
+  
+  
 </ul>
 
 <br>
