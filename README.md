@@ -92,7 +92,7 @@
     </ul>
   </li>
   
-    <li>:open_file_folder: Semester 5
+      <li>:open_file_folder: Semester 5
     <ul>
       <li>
         <a href="https://github.com/teodoradra/Formal-languages-and-compiler-design"> 
